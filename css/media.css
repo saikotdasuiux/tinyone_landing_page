@@ -1,0 +1,186 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu ul li a{
+		text-align: right;
+		padding: 0 0 !important;
+	
+	}
+	/*header end*/
+	/*slider start*/
+
+	.slider{
+		padding-bottom: 80px;
+	}
+
+	.cid{
+		bottom: -55px;
+	}
+	.s_text{
+		margin-top: 0px;
+	}
+
+	/*slider end*/
+
+	/*feature start*/
+	.c_padding{
+    	padding-top: 50px;
+    	padding-bottom: 70px;
+	}
+
+	.c_h1{
+		font-size: 26px;
+	}
+	.c_p{
+		font-size: 17px;
+	}
+	.c_mt_70{
+		margin-top: 30px;
+	}
+
+	.si_icon{
+		font-size: 45px;
+	}
+
+	.si_text{
+		margin-top: 0;
+		text-align: center;
+	}
+
+	.si_text h2{
+		margin-bottom: 10px;
+	}
+	/*feature end*/
+
+	/*contact start*/
+	.m_tb{
+		margin-top: 45px;
+		margin-bottom: 45px;
+	}
+
+	.social_icon ul{
+		padding-left: 0;
+	}
+	/*contact end*/
+
+	/*footer start*/
+	footer{
+		padding-bottom: 70px;
+		text-align: center;
+	}
+
+	.f2{
+		margin-top: 20px;
+	}
+	/*footer end*/
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu ul li a{
+		text-align: right;
+		padding: 0 0 !important;
+	
+	}
+	/*header end*/ 
+
+	/*slider start*/
+
+	.slider{
+		padding-bottom: 80px;
+	}
+
+	.cid{
+		bottom: -55px;
+	}
+	.s_text{
+		margin-top: 0px;
+	}
+
+	/*slider end*/
+
+	/*feature start*/
+	.c_padding{
+    	padding-top: 60px;
+    	padding-bottom: 80px;
+	}
+	.c_mt_70{
+		margin-top: 40px;
+	}
+
+	.si_text{
+		margin-top: 0;
+		text-align: center;
+	}
+	/*feature end*/
+	/*contact start*/
+	.m_tb{
+		margin-top: 25px;
+		margin-bottom: 45px;
+	}
+	/*contact end*/
+
+	/*footer start*/
+	footer{
+		padding-bottom: 80px;
+		text-align: center;
+	}
+
+	.f2{
+		margin-top: 20px;
+	}
+	/*footer end*/
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a{
+		text-align: right;
+		padding: 0 0 !important ;
+	
+	}
+	/*header end*/
+
+	/*slider*/
+	.s_text{
+		margin-top: 50px;
+	}
+
+	/*feature start*/
+	.c_padding{
+    	padding-top: 80px;
+    	padding-bottom: 100px;
+}
+	.c_mt_70{
+		margin-top: 50px;
+	}
+
+}
+}
+
+}
+	/*feature end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
